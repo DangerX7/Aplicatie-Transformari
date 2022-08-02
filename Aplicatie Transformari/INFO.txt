@@ -1,0 +1,1 @@
+Aplicatie pentru convertirea gramelor in kilograme si calcularea cubajului al unei piese din depozitul MRO.
